@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://loopstr.co
+
+# Sitemaps
+Sitemap: https://loopstr.co/sitemap.xml
