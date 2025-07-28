@@ -333,10 +333,10 @@ export default function Disclaimer() {
                 <address className="mt-2 text-gray-600 not-italic">
                   Email:{" "}
                   <a
-                    href="mailto:support@loopstr.co"
+                    href="mailto:loopstr@gmail.com"
                     className="text-loopstr-600 hover:text-loopstr-700 hover:underline"
                   >
-                    support@loopstr.co
+                    loopstr@gmail.com
                   </a>
                   <br />
                   Contact: Available on{" "}

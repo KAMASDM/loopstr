@@ -289,10 +289,10 @@ const ContactUs = () => {
                           Email our sustainability team
                         </p>
                         <a
-                          href="mailto:sustainability@loopstr.com"
+                          href="mailto:loopstr@gmail.com"
                           className="text-gray-700 hover:text-green-600 hover:underline"
                         >
-                          sustainability@loopstr.com
+                          loopstr@gmail.com
                         </a>
                       </div>
                     </div>
