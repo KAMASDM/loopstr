@@ -398,16 +398,16 @@ export default function TermsAndConditions() {
                 <address className="mt-2 text-gray-600 not-italic">
                   Email:{" "}
                   <a
-                    href="mailto:support@loopstr.co"
-                    className="text-loopstr-600 hover:text-loopstr-700 hover:underline"
+                    href="mailto:loopstr@gmail.com"
+                    className="text-green-600 hover:text-green-700 hover:underline"
                   >
-                    support@loopstr.co
+                    loopstr@gmail.com
                   </a>
                   <br />
                   Contact: Available on{" "}
                   <Link
                     href="/contact-us"
-                    className="text-loopstr-600 hover:text-loopstr-700 hover:underline"
+                    className="text-green-600 hover:text-green-700 hover:underline"
                   >
                     loopstr.co
                   </Link>
